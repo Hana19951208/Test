@@ -5,3 +5,5 @@ INSERT INTO `` VALUES ('5c0789dab8cce13024322b16', '1297564418@qq.com', '$2a$10$
 INSERT INTO `` VALUES ('system', 'system', '$2a$10$coRU2p4GRrdKKvlfCAzVd.va1N4OJgYQTrTJh9xJyjRINnnJXaeHi', '超级管理员', 'yangdong@ithinkdt.com', '0', '', NULL, '', '2018-9-25 02:03:08', '192.168.16.114', 21140, '2018-6-28 20:16:40', '1', '0', '2015-11-24 12:12:52', 'admin', '2019-3-10 11:18:58', NULL, 'A', '', '0', 'primary', '', '', '', '', '', NULL, '91fd451a-d67a-48fa-8a36-f9a9df78e002', '?????', NULL, '', 'thdt');
 
 -- 这是dev开发的代码 v1.0.0 2020-5-19 11:02:31
+
+-- 这是dev开发的代码 v1.0.1 2020-5-19 11:03:28
